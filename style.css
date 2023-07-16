@@ -80,13 +80,13 @@ img {
   object-fit: cover;
 }
 
-#information {
-  padding-top: 10rem;
-  display: flex;
+#second-section {
+  padding-top: 2rem;
 }
 
 h2 {
   font-size: 36px;
   font-weight: bolder;
   color: #1f2937;
+  text-align: center;
 }
