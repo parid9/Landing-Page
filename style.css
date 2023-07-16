@@ -8,3 +8,15 @@
 body {
   font-family: 'Roboto', sans-serif;
 }
+
+.navbar-left {
+  background-color: #1f2937;
+  padding-top: 0.3rem;
+}
+
+.header-text {
+  color: #f9faf8;
+  font-size: 24px;
+  margin-left: 10rem;
+  font-weight: 700;
+}
