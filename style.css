@@ -9,14 +9,31 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-.navbar-left {
+#first-section {
   background-color: #1f2937;
   padding-top: 0.3rem;
+  display: flex;
 }
 
 .header-text {
   color: #f9faf8;
   font-size: 24px;
   margin-left: 10rem;
+  margin-right: 18em;
   font-weight: 700;
+}
+
+ul {
+  color: #e5e7eb;
+  font-size: 18px;
+  display: flex;
+  list-style-type: none;
+  gap: 2rem;
+  font-weight: 300;
+}
+
+.navbar-left,
+.navbar-right {
+  display: flex;
+  flex-direction: row;
 }
