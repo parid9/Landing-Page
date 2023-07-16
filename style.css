@@ -50,3 +50,9 @@ h1 {
   font-weight: 900;
   font-size: 48px;
 }
+
+.first-paragraph {
+  color: #e5e7eb;
+  margin-left: 10rem;
+  font-size: 18px;
+}
