@@ -29,7 +29,7 @@ ul {
   display: flex;
   list-style-type: none;
   gap: 2rem;
-  font-weight: 300;
+  font-weight: 200;
 }
 
 .navbar-left,
@@ -49,7 +49,7 @@ h1 {
   margin-left: 10rem;
   color: #f9faf8;
   margin-top: 10rem;
-  font-weight: 900;
+  font-weight: bolder;
   font-size: 48px;
 }
 
@@ -78,4 +78,16 @@ img {
   width: 450px;
   height: 225px;
   object-fit: cover;
+}
+
+#information {
+  padding-top: 3rem;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1f2937;
 }
