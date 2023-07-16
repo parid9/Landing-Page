@@ -56,3 +56,15 @@ h1 {
   margin-left: 10rem;
   font-size: 18px;
 }
+
+.blue-btn {
+  margin-left: 10rem;
+  margin-top: 0.5rem;
+  background-color: #3882f6;
+  color: #f9faf8;
+  border: none;
+  padding: 10px 30px;
+  text-align: center;
+  font-weight: 600;
+  border-radius: 7px;
+}
