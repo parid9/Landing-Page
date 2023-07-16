@@ -37,3 +37,16 @@ ul {
   display: flex;
   flex-direction: row;
 }
+
+#content {
+  background-color: #1f2937;
+  display: flex;
+}
+
+h1 {
+  margin-left: 10rem;
+  color: #f9faf8;
+  margin-top: 10rem;
+  font-weight: 900;
+  font-size: 48px;
+}
