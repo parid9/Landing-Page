@@ -160,3 +160,13 @@ h2 {
   font-weight: 600;
   border-radius: 7px;
 }
+
+footer {
+  background-color: #1f2937;
+  color: #f9faf8;
+  padding: 2rem 2rem;
+  display: flex;
+  justify-content: center;
+  font-size: 18px;
+  font-weight: 300;
+}
