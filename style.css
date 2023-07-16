@@ -82,6 +82,7 @@ img {
 
 #second-section {
   padding-top: 2rem;
+  padding-bottom: 6rem;
 }
 
 h2 {
@@ -113,4 +114,24 @@ h2 {
 
 #third-section {
   background-color: #e5e7eb;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.quote {
+  font-size: 36px;
+  font-style: italic;
+  color: #1f2937;
+  font-weight: 300;
+  text-align: center;
+}
+
+.thor {
+  font-size: 24px;
+  color: #1f2937;
+  font-weight: bold;
+  text-align: end;
+  margin-right: 200px;
 }
