@@ -41,6 +41,8 @@ ul {
 #content {
   background-color: #1f2937;
   display: flex;
+  align-items: flex-end;
+  padding-bottom: 10rem;
 }
 
 h1 {
@@ -55,6 +57,7 @@ h1 {
   color: #e5e7eb;
   margin-left: 10rem;
   font-size: 18px;
+  font-weight: 300;
 }
 
 .blue-btn {
@@ -67,4 +70,12 @@ h1 {
   text-align: center;
   font-weight: 600;
   border-radius: 7px;
+}
+
+img {
+  display: flex;
+  margin-left: 5rem;
+  width: 450px;
+  height: 225px;
+  object-fit: cover;
 }
